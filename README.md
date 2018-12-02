@@ -1,5 +1,5 @@
-# BlackFeet-report-visualizations
-### Data Engineering of my Kids 'BlackFeet Indian' report.
+# BlackFeet Indian reports visualizations
+### Data Engineering of my Kids 'BlackFeet Indian'  school report.
 
 
 #### WordCloud masked with Buffalo image:
